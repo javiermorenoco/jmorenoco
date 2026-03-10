@@ -16,18 +16,18 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
 
 ### 💻 This is my portfolio:
-✨ [jmoreno.co](https://jmoreno.co)
+✨ [javiermoreno.co](https://javiermoreno.co)
 
 
 ### 🔥 You can catch me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/jmorenoco/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/javiermorenoco/" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Javier Moreno LinkedIn Profile" height="20" width="20">
 </a> &nbsp &nbsp
-<a href="https://twitter.com/jmorenoco" target="_blank" rel="noopener">
+<a href="https://twitter.com/javiermorenoco" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Javier Moreno Twitter Profile" height="20" width="20">
 </a> &nbsp &nbsp
-<a href="https://platzi.com/p/javandresmoreno/" target="_blank" rel="noopener">
+<a href="https://platzi.com/p/jmorenoco/" target="_blank" rel="noopener">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Javier Moreno Platzi Profile" height="20" width="20">
 </a>
 </p>
